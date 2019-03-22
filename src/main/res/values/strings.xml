@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Patrick\'s Quiz</string>
+
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="positive">Correct!</string>
+    <string name="Question1">Is Vienna the capital of Austria?</string>
+    <string name="Question2">Is Budapest the capital of Hungary?</string>
+    <string name="Question3">Is Anchorage the capital of Alaska?</string>
+    <string name="Question4">Is Seoul the capital of South Korea?</string>
+    <string name="Question5">Is Montreal the capital of Canada?</string>
+    <string name="Question6"></string>
+    <string name="negative">Incorrect!</string>
+    <string name = "cheat">You Cheated!</string>
+    <string name ="cheater">Cheating is wrong!</string>
+    <string name="Score">Score: </string>
+    <string name="Warning">Are you sure you want a hint?</string>
+    <string name="hint_button">Hint</string>
+    <string name="hint_confirm">Show Hint:</string>
+    <string name="judge_toast">Next tme, try without.</string>
+</resources>
